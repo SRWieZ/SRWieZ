@@ -1,4 +1,9 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SRWieZ&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
 ### Hi there 👋
+PHP & Laravel developer! Indie dev. <br> I enjoy open source and creating products in public
+
+More information on my website: [srwiez.com](srwiez.com)
 
 <!--
 **SRWieZ/SRWieZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
