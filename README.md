@@ -15,5 +15,5 @@ PHP & Laravel developer! Indie dev. <br> I enjoy open source and creating produc
 
 Regularly posting blog posts here: [srwiez.com](srwiez.com)
 
-Currently working on [unolia.com](https://unolia.com), the best place to manage dns domain names. 
+Currently working on [unolia.com](https://unolia.com), the best place to manage your domain names (DNS). 
 From the dashboard, the command line, or the API. Comes with a ton of features to help you have secure and well configured domain.
