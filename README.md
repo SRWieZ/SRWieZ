@@ -1,3 +1,7 @@
+
+
+### 👋 Eser Deniz (@SRWieZ) 
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SRWieZ&show_icons=true&theme=dark"
@@ -10,7 +14,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=SRWieZ&show_icons=true" />
 </picture>
 
-### 👋 Eser Deniz (@SRWieZ) 
 PHP & Laravel developer! Indie dev. <br> I enjoy open source and creating products in public. 
 
 Regularly posting blog posts here: [srwiez.com](srwiez.com)
