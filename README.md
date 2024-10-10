@@ -7,7 +7,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent [blog posts](https://srwiez.com)
 
-- [Upgrade your Filament notifications by live updating them](https://srwiez.com/posts/upgrade-your-filament-notifications-by-live-updating-them) (4 weeks ago)
+- [Upgrade your Filament notifications by live updating them](https://srwiez.com/posts/upgrade-your-filament-notifications-by-live-updating-them) (1 month ago)
 - [Review of my first time live streaming](https://srwiez.com/posts/review-of-my-first-time-live-streaming) (2 months ago)
 - [How I organise my notes in 2024](https://srwiez.com/posts/how-i-organise-my-notes-in-2024) (2 months ago)
 - [Help your users verify their email with Sniper Link](https://srwiez.com/posts/help-your-users-verify-their-email-with-sniper-link) (5 months ago)
@@ -16,8 +16,8 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 #### 👨‍🔧 Currently helping with these projects
 
 - [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) - CLI tool to see what has changed in your project&#39;s dependencies (2 weeks ago)
-- [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) - The NativePHP website (2 weeks ago)
-- [livewire/flux](https://github.com/livewire/flux) - The official Livewire UI component library (2 weeks ago)
+- [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) - The NativePHP website (3 weeks ago)
+- [livewire/flux](https://github.com/livewire/flux) - The official Livewire UI component library (3 weeks ago)
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) - CLI tool to manage all your domains (3 weeks ago)
 - [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) - CLI tool for SVG Tiny P/S (Portable and Secure) conversion and BIMI compliance (3 weeks ago)
 - [NativePHP/electron](https://github.com/NativePHP/electron) - Electron backend for NativePHP (1 month ago)
