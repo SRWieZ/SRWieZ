@@ -19,6 +19,6 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) - The NativePHP website (3 weeks ago)
 - [livewire/flux](https://github.com/livewire/flux) - The official Livewire UI component library (3 weeks ago)
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) - CLI tool to manage all your domains (3 weeks ago)
-- [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) - CLI tool for SVG Tiny P/S (Portable and Secure) conversion and BIMI compliance (4 weeks ago)
+- [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) - CLI tool for SVG Tiny P/S (Portable and Secure) conversion and BIMI compliance (1 month ago)
 - [NativePHP/electron](https://github.com/NativePHP/electron) - Electron backend for NativePHP (1 month ago)
 - [wire-elements/wire-extender](https://github.com/wire-elements/wire-extender) - Wire Extender allows you to embed any Livewire component on any website or even within a static HTML file. (2 months ago)
