@@ -9,7 +9,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 - [Upgrade your Filament notifications by live updating them](https://srwiez.com/posts/upgrade-your-filament-notifications-by-live-updating-them) (1 month ago)
 - [Review of my first time live streaming](https://srwiez.com/posts/review-of-my-first-time-live-streaming) (2 months ago)
-- [How I organise my notes in 2024](https://srwiez.com/posts/how-i-organise-my-notes-in-2024) (2 months ago)
+- [How I organise my notes in 2024](https://srwiez.com/posts/how-i-organise-my-notes-in-2024) (3 months ago)
 - [Help your users verify their email with Sniper Link](https://srwiez.com/posts/help-your-users-verify-their-email-with-sniper-link) (5 months ago)
 - [Improved handling of 404 errors with Livewire](https://srwiez.com/posts/improved-handling-of-404-errors-with-livewire) (8 months ago)
 
