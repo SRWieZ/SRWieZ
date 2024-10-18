@@ -15,10 +15,10 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects
 
-- [SRWieZ/php-svg-ps-converter](https://github.com/SRWieZ/php-svg-ps-converter) - SVG (Portable and Secure) converter for BIMI compliance. (1 day ago)
+- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) - Check the queue size with Spatie Health Package (today)
 - [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (1 day ago)
+- [SRWieZ/php-svg-ps-converter](https://github.com/SRWieZ/php-svg-ps-converter) - SVG (Portable and Secure) converter for BIMI compliance. (1 day ago)
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) - Thumbhash implementation in PHP (2 days ago)
 - [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) - CLI tool to see what has changed in your project&#39;s dependencies (3 weeks ago)
 - [livewire/flux](https://github.com/livewire/flux) - The official Livewire UI component library (4 weeks ago)
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) - The NativePHP website (4 weeks ago)
-- [unolia/unolia-cli](https://github.com/unolia/unolia-cli) - CLI tool to manage all your domains (1 month ago)
