@@ -7,7 +7,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent [blog posts](https://srwiez.com)
 
-- [My take on Statamic&#39;s future](https://srwiez.com/posts/my-take-on-statamic-future) (4 weeks ago)
+- [My take on Statamic&#39;s future](https://srwiez.com/posts/my-take-on-statamic-future) (1 month ago)
 - [Upgrade your Filament notifications by live updating them](https://srwiez.com/posts/upgrade-your-filament-notifications-by-live-updating-them) (2 months ago)
 - [Review of my first time live streaming](https://srwiez.com/posts/review-of-my-first-time-live-streaming) (3 months ago)
 - [How I organise my notes in 2024](https://srwiez.com/posts/how-i-organise-my-notes-in-2024) (4 months ago)
@@ -15,10 +15,10 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects
 
-- [SRWieZ/native-myip](https://github.com/SRWieZ/native-myip) -  (today)
-- [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) - The NativePHP website (1 day ago)
-- [NativePHP/electron](https://github.com/NativePHP/electron) - Electron backend for NativePHP (5 days ago)
+- [SRWieZ/native-myip](https://github.com/SRWieZ/native-myip) -  (1 day ago)
+- [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) - The NativePHP website (2 days ago)
+- [NativePHP/electron](https://github.com/NativePHP/electron) - Electron backend for NativePHP (6 days ago)
 - [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) - CLI tool for SVG Tiny P/S (Portable and Secure) conversion and BIMI compliance (4 weeks ago)
-- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) - Check the queue size with Spatie Health Package (4 weeks ago)
+- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) - Check the queue size with Spatie Health Package (1 month ago)
 - [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (1 month ago)
 - [SRWieZ/php-svg-ps-converter](https://github.com/SRWieZ/php-svg-ps-converter) - SVG (Portable and Secure) converter for BIMI compliance. (1 month ago)
