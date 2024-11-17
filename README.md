@@ -15,7 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects
 
-- [SRWieZ/native-myip](https://github.com/SRWieZ/native-myip) -  (1 day ago)
+- [SRWieZ/native-myip](https://github.com/SRWieZ/native-myip) -  (today)
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) - The NativePHP website (2 days ago)
 - [NativePHP/electron](https://github.com/NativePHP/electron) - Electron backend for NativePHP (6 days ago)
 - [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) - CLI tool for SVG Tiny P/S (Portable and Secure) conversion and BIMI compliance (4 weeks ago)
