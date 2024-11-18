@@ -20,5 +20,5 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [NativePHP/electron](https://github.com/NativePHP/electron) - Electron backend for NativePHP (1 week ago)
 - [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) - CLI tool for SVG Tiny P/S (Portable and Secure) conversion and BIMI compliance (1 month ago)
 - [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) - Check the queue size with Spatie Health Package (1 month ago)
-- [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (1 month ago)
 - [SRWieZ/php-svg-ps-converter](https://github.com/SRWieZ/php-svg-ps-converter) - SVG (Portable and Secure) converter for BIMI compliance. (1 month ago)
+- [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (1 month ago)
