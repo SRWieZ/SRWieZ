@@ -15,7 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects
 
-- [knotsphp/publicip](https://github.com/knotsphp/publicip) - Retrieve your public IP address from any operating system (1 day ago)
+- [knotsphp/publicip](https://github.com/knotsphp/publicip) - Retrieve your public IP address from any operating system (today)
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) - The NativePHP website (3 days ago)
 - [NativePHP/electron](https://github.com/NativePHP/electron) - Electron backend for NativePHP (1 week ago)
 - [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) - CLI tool for SVG Tiny P/S (Portable and Secure) conversion and BIMI compliance (1 month ago)
