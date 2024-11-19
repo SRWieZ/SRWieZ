@@ -17,8 +17,8 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 - [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) - CLI tool for SVG Tiny P/S (Portable and Secure) conversion and BIMI compliance (today)
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) - CLI tool to manage all your domains (today)
+- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) - CLI tool to see what has changed in your project&#39;s dependencies (today)
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework (today)
 - [knotsphp/publicip](https://github.com/knotsphp/publicip) - Retrieve your public IP address from any operating system (1 day ago)
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) - The NativePHP website (4 days ago)
 - [NativePHP/electron](https://github.com/NativePHP/electron) - Electron backend for NativePHP (1 week ago)
-- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) - Check the queue size with Spatie Health Package (1 month ago)
