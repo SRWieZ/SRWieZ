@@ -3,9 +3,9 @@
 
 PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and building my products in public.
 
-🚀 Currently working on [unolia.com](https://unolia.com). The best place to manage your domain names (DNS) is from the dashboard, the command line, or the API. It comes with a ton of features to help you have a secure and well-configured domain.
+🚀 Currently working on [unolia.com](https://unolia.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez). The best place to manage your domain names (DNS) is from the dashboard, the command line, or the API. It comes with a ton of features to help you have a secure and well-configured domain.
 
-#### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com))
+#### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 {{range rss "https://srwiez.com/feed" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
