@@ -15,11 +15,11 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(1 day ago)_
-- [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) → CLI tool for SVG Tiny P/S (Portable and Secure) conversion _(2 days ago)_
+- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(today)_
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(2 days ago)_
 - [knotsphp/publicip](https://github.com/knotsphp/publicip) → Retrieve your public IP address from any operating system _(2 days ago)_
 - [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(2 days ago)_
+- [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) → CLI tool for SVG Tiny P/S (Portable and Secure) conversion _(2 days ago)_
 - [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(2 days ago)_
 - [SRWieZ/php-svg-ps-converter](https://github.com/SRWieZ/php-svg-ps-converter) → SVG (Portable and Secure) converter for BIMI compliance. _(2 days ago)_
 
