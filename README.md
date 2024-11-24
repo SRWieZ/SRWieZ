@@ -18,9 +18,9 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [SRWieZ/grpc-protoset](https://github.com/SRWieZ/grpc-protoset) → A simple PHP library to convert a protoset file to proto files _(today)_
 - [knotsphp/publicip](https://github.com/knotsphp/publicip) → Retrieve your public IP address from any operating system _(1 day ago)_
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(1 day ago)_
-- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(3 days ago)_
-- [SRWieZ/php-svg-ps-converter](https://github.com/SRWieZ/php-svg-ps-converter) → SVG (Portable and Secure) converter for BIMI compliance. _(3 days ago)_
-- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(3 days ago)_
 - [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(3 days ago)_
+- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(3 days ago)_
+- [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) → CLI tool for SVG Tiny P/S (Portable and Secure) conversion _(3 days ago)_
+- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(3 days ago)_
 
 I love working on open-source projects, and it would make me happy to do it full-time. If you like my work, please consider [sponsoring me](https://github.com/sponsors/SRWieZ).
