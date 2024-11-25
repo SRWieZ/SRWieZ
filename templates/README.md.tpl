@@ -15,4 +15,6 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [{{.Repo.Name}}]({{.Repo.URL}}) → {{.Repo.Description}} _({{humanize .OccurredAt}})_
 {{- end}}
 
-I love working on open-source projects, and it would make me happy to do it full-time. If you like my work, please consider [sponsoring me](https://github.com/sponsors/SRWieZ).
+I love working on open-source projects, and I would be thrilled to do it full-time.
+
+If you appreciate my work, please consider [sponsoring me](https://github.com/sponsors/SRWieZ).

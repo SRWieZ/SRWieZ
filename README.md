@@ -23,4 +23,6 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(4 days ago)_
 - [SRWieZ/php-svg-ps-converter](https://github.com/SRWieZ/php-svg-ps-converter) → SVG (Portable and Secure) converter for BIMI compliance. _(4 days ago)_
 
-I love working on open-source projects, and it would make me happy to do it full-time. If you like my work, please consider [sponsoring me](https://github.com/sponsors/SRWieZ).
+I love working on open-source projects, and it would make me happy to do it full-time. 
+
+If you like my work, please consider [sponsoring me](https://github.com/sponsors/SRWieZ).
