@@ -15,14 +15,14 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(today)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(today)_
+- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(today)_
 - [knotsphp/publicip](https://github.com/knotsphp/publicip) → Retrieve your public IP address from any operating system _(1 day ago)_
 - [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) →  _(1 day ago)_
 - [SRWieZ/grpc-protoset](https://github.com/SRWieZ/grpc-protoset) → A simple PHP library to convert a protoset file to proto files _(1 day ago)_
 - [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(4 days ago)_
-- [SRWieZ/php-svg-ps-converter](https://github.com/SRWieZ/php-svg-ps-converter) → SVG (Portable and Secure) converter for BIMI compliance. _(4 days ago)_
+- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(4 days ago)_
 
-I love working on open-source projects, and it would make me happy to do it full-time. 
+I love working on open-source projects, and I would be thrilled to do it full-time.
 
-If you like my work, please consider [sponsoring me](https://github.com/sponsors/SRWieZ).
+If you appreciate my work, please consider [sponsoring me](https://github.com/sponsors/SRWieZ).
