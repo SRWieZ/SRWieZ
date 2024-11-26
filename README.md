@@ -18,10 +18,10 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(today)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(1 day ago)_
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(1 day ago)_
-- [SRWieZ/grpc-protoset](https://github.com/SRWieZ/grpc-protoset) → A simple PHP library to convert a protoset file to proto files _(2 days ago)_
 - [knotsphp/publicip](https://github.com/knotsphp/publicip) → Retrieve your public IP address from any operating system _(2 days ago)_
-- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(5 days ago)_
+- [SRWieZ/grpc-protoset](https://github.com/SRWieZ/grpc-protoset) → A simple PHP library to convert a protoset file to proto files _(2 days ago)_
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(5 days ago)_
+- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(5 days ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
