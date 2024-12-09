@@ -15,7 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [knotsphp/publicip](https://github.com/knotsphp/publicip) → Retrieve your public IP address from any operating system _(today)_
+- [knotsphp/publicip](https://github.com/knotsphp/publicip) → Fast and reliable way to get your public IP address with PHP _(today)_
 - [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(3 days ago)_
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(6 days ago)_
 - [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(1 week ago)_
