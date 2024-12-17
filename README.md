@@ -21,7 +21,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [knotsphp/publicip](https://github.com/knotsphp/publicip) → Fast and reliable way to get your public IP address with PHP _(1 week ago)_
 - [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(3 weeks ago)_
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(3 weeks ago)_
-- [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(3 weeks ago)_
+- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(3 weeks ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
