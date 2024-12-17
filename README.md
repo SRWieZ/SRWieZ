@@ -15,7 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(1 day ago)_
+- [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(today)_
 - [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(4 days ago)_
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(1 week ago)_
 - [knotsphp/publicip](https://github.com/knotsphp/publicip) → Fast and reliable way to get your public IP address with PHP _(1 week ago)_
