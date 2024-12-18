@@ -7,7 +7,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
-- [My take on Bluesky](https://srwiez.com/posts/my-take-on-bluesky) _1 week ago_
+- [My take on Bluesky](https://srwiez.com/posts/my-take-on-bluesky) _2 weeks ago_
 - [My take on Statamic&#39;s future](https://srwiez.com/posts/my-take-on-statamic-future) _2 months ago_
 - [Upgrade your Filament notifications by live updating them](https://srwiez.com/posts/upgrade-your-filament-notifications-by-live-updating-them) _3 months ago_
 - [Review of my first time live streaming](https://srwiez.com/posts/review-of-my-first-time-live-streaming) _4 months ago_
@@ -15,8 +15,8 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(today)_
-- [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(today)_
+- [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(1 day ago)_
+- [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(1 day ago)_
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(1 week ago)_
 - [knotsphp/publicip](https://github.com/knotsphp/publicip) → Fast and reliable way to get your public IP address with PHP _(1 week ago)_
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(3 weeks ago)_
