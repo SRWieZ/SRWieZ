@@ -7,11 +7,11 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
+- [2024 : Year in review](https://srwiez.com/posts/2024-year-in-review) _today_
 - [My take on Bluesky](https://srwiez.com/posts/my-take-on-bluesky) _3 weeks ago_
 - [My take on Statamic&#39;s future](https://srwiez.com/posts/my-take-on-statamic-future) _2 months ago_
 - [Upgrade your Filament notifications by live updating them](https://srwiez.com/posts/upgrade-your-filament-notifications-by-live-updating-them) _3 months ago_
 - [Review of my first time live streaming](https://srwiez.com/posts/review-of-my-first-time-live-streaming) _5 months ago_
-- [How I organise my notes in 2024](https://srwiez.com/posts/how-i-organise-my-notes-in-2024) _5 months ago_
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
