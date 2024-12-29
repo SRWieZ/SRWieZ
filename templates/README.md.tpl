@@ -7,7 +7,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 {{range rss "https://srwiez.com/feed" 5}}
-- [{{.Title}}]({{.URL}}) _{{humanize .PublishedAt}}_
+- [{{.Title}}]({{.URL}}?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _{{humanize .PublishedAt}}_
 {{- end}}
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
