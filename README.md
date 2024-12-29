@@ -7,7 +7,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
-- [2024 : Year in review](https://srwiez.com/posts/2024-year-in-review) _1 day ago_
+- [2024 : Year in review](https://srwiez.com/posts/2024-year-in-review) _2 days ago_
 - [My take on Bluesky](https://srwiez.com/posts/my-take-on-bluesky) _3 weeks ago_
 - [My take on Statamic&#39;s future](https://srwiez.com/posts/my-take-on-statamic-future) _2 months ago_
 - [Upgrade your Filament notifications by live updating them](https://srwiez.com/posts/upgrade-your-filament-notifications-by-live-updating-them) _3 months ago_
@@ -15,13 +15,13 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(today)_
-- [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(2 days ago)_
-- [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(2 days ago)_
-- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(2 days ago)_
-- [knotsphp/system](https://github.com/knotsphp/system) → A modern PHP library to get system information with Enums and Value Objects. _(4 days ago)_
-- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(4 days ago)_
-- [knotsphp/flushdns](https://github.com/knotsphp/flushdns) → Flush DNS cache on your system _(4 days ago)_
+- [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(1 day ago)_
+- [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(3 days ago)_
+- [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(3 days ago)_
+- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(3 days ago)_
+- [knotsphp/system](https://github.com/knotsphp/system) → A modern PHP library to get system information with Enums and Value Objects. _(5 days ago)_
+- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(5 days ago)_
+- [knotsphp/flushdns](https://github.com/knotsphp/flushdns) → Flush DNS cache on your system _(5 days ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
