@@ -21,7 +21,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(1 week ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(1 week ago)_
 - [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(1 week ago)_
-- [knotsphp/flushdns](https://github.com/knotsphp/flushdns) → Flush DNS cache on your system _(2 weeks ago)_
+- [knotsphp/system](https://github.com/knotsphp/system) → A modern PHP library to get system information with Enums and Value Objects. _(2 weeks ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
