@@ -15,7 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(5 days ago)_
+- [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(today)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(5 days ago)_
 - [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(1 week ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(1 week ago)_
