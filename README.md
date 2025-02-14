@@ -7,7 +7,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
-- [Host your own AI Server using Proxmox and Ollama and connect PHPStorm to it](https://srwiez.com/posts/host-your-own-ai-server-using-proxmox-and-ollama-and-connect-phpstorm-to-it?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _today_
+- [Host your own AI Server using Proxmox and Ollama and connect PHPStorm to it](https://srwiez.com/posts/host-your-own-ai-server-using-proxmox-and-ollama-and-connect-phpstorm-to-it?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 day ago_
 - [2024 : Year in review](https://srwiez.com/posts/2024-year-in-review?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 month ago_
 - [My take on Bluesky](https://srwiez.com/posts/my-take-on-bluesky?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _2 months ago_
 - [My take on Statamic&#39;s future](https://srwiez.com/posts/my-take-on-statamic-future?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 months ago_
@@ -15,9 +15,9 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(1 day ago)_
+- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(2 days ago)_
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(1 week ago)_
-- [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(1 week ago)_
+- [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(2 weeks ago)_
 - [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(2 weeks ago)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(3 weeks ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(3 weeks ago)_
