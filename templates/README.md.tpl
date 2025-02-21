@@ -11,7 +11,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 {{- end}}
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
-{{range recentContributions 7}}
+{{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) → {{.Repo.Description}} _({{humanize .OccurredAt}})_
 {{- end}}
 
