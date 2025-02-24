@@ -15,16 +15,16 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(today)_
-- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(2 days ago)_
-- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(3 days ago)_
-- [knuckleswtf/scribe](https://github.com/knuckleswtf/scribe) → Generate API documentation for humans from your Laravel codebase.✍ _(3 days ago)_
-- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(6 days ago)_
-- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(6 days ago)_
+- [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(1 day ago)_
+- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(3 days ago)_
+- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(4 days ago)_
+- [knuckleswtf/scribe](https://github.com/knuckleswtf/scribe) → Generate API documentation for humans from your Laravel codebase.✍ _(4 days ago)_
+- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(1 week ago)_
+- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(1 week ago)_
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) → Check the health of your Laravel app _(2 weeks ago)_
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(3 weeks ago)_
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(3 weeks ago)_
-- [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(3 weeks ago)_
+- [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(4 weeks ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
