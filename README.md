@@ -16,7 +16,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
 - [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(today)_
-- [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(1 day ago)_
+- [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(today)_
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(1 day ago)_
 - [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(4 days ago)_
 - [knuckleswtf/scribe](https://github.com/knuckleswtf/scribe) → Generate API documentation for humans from your Laravel codebase.✍ _(5 days ago)_
