@@ -11,13 +11,13 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [2024 : Year in review](https://srwiez.com/posts/2024-year-in-review?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _2 months ago_
 - [My take on Bluesky](https://srwiez.com/posts/my-take-on-bluesky?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 months ago_
 - [My take on Statamic&#39;s future](https://srwiez.com/posts/my-take-on-statamic-future?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
-- [Upgrade your Filament notifications by live updating them](https://srwiez.com/posts/upgrade-your-filament-notifications-by-live-updating-them?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _5 months ago_
+- [Upgrade your Filament notifications by live updating them](https://srwiez.com/posts/upgrade-your-filament-notifications-by-live-updating-them?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _6 months ago_
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(4 days ago)_
-- [phpacker/phpacker](https://github.com/phpacker/phpacker) → Package any PHP script or PHAR into a standalone, cross-platform executable _(4 days ago)_
-- [mitydigital/statamic-bluesky-comments](https://github.com/mitydigital/statamic-bluesky-comments) → Attach a Bluesky thread to your Entries for a commenting system managed through Bluesky. _(5 days ago)_
+- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(5 days ago)_
+- [phpacker/phpacker](https://github.com/phpacker/phpacker) → Package any PHP script or PHAR into a standalone, cross-platform executable _(5 days ago)_
+- [mitydigital/statamic-bluesky-comments](https://github.com/mitydigital/statamic-bluesky-comments) → Attach a Bluesky thread to your Entries for a commenting system managed through Bluesky. _(6 days ago)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(1 week ago)_
 - [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(1 week ago)_
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(1 week ago)_
