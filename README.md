@@ -23,7 +23,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(3 weeks ago)_
 - [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(3 weeks ago)_
 - [knuckleswtf/scribe](https://github.com/knuckleswtf/scribe) → Generate API documentation for humans from your Laravel codebase.✍ _(3 weeks ago)_
-- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(4 weeks ago)_
+- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(1 month ago)_
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) → Check the health of your Laravel app _(1 month ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
