@@ -7,7 +7,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
-- [How I wasted 3 days upgrading to FluxUI](https://srwiez.com/posts/how-i-wasted-3-days-upgrading-to-fluxui?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 days ago_
+- [How I wasted 3 days upgrading to FluxUI](https://srwiez.com/posts/how-i-wasted-3-days-upgrading-to-fluxui?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 days ago_
 - [Host your own AI Server using Proxmox and Ollama and connect PHPStorm to it](https://srwiez.com/posts/host-your-own-ai-server-using-proxmox-and-ollama-and-connect-phpstorm-to-it?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 month ago_
 - [2024 : Year in review](https://srwiez.com/posts/2024-year-in-review?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 months ago_
 - [My take on Bluesky](https://srwiez.com/posts/my-take-on-bluesky?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 months ago_
@@ -15,7 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(2 days ago)_
+- [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(3 days ago)_
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(2 weeks ago)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(2 weeks ago)_
 - [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(3 weeks ago)_
