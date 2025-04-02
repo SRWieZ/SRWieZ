@@ -15,6 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
+- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(today)_
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(1 day ago)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(1 day ago)_
 - [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(2 days ago)_
@@ -24,7 +25,6 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [phpacker/phpacker](https://github.com/phpacker/phpacker) → Package any PHP script or PHAR into a standalone, cross-platform executable _(4 weeks ago)_
 - [mitydigital/statamic-bluesky-comments](https://github.com/mitydigital/statamic-bluesky-comments) → Attach a Bluesky thread to your Entries for a commenting system managed through Bluesky. _(1 month ago)_
 - [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(1 month ago)_
-- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(1 month ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
