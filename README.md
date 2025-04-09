@@ -15,16 +15,16 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
+- [NativePHP/kitchen-sink](https://github.com/NativePHP/kitchen-sink) → NativePHP for desktop demo app _(today)_
+- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(2 days ago)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(2 days ago)_
 - [knotsphp/publicip](https://github.com/knotsphp/publicip) → Fast and reliable way to get your public IP address with PHP _(2 days ago)_
-- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(2 days ago)_
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(6 days ago)_
-- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(1 week ago)_
 - [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(1 week ago)_
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(1 week ago)_
+- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(1 week ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(1 week ago)_
 - [phpacker/phpacker](https://github.com/phpacker/phpacker) → Package any PHP script or PHAR into a standalone, cross-platform executable _(1 month ago)_
-- [mitydigital/statamic-bluesky-comments](https://github.com/mitydigital/statamic-bluesky-comments) → Attach a Bluesky thread to your Entries for a commenting system managed through Bluesky. _(1 month ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
