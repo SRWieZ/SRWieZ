@@ -15,7 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [NativePHP/kitchen-sink](https://github.com/NativePHP/kitchen-sink) → NativePHP for desktop demo app _(5 days ago)_
+- [NativePHP/kitchen-sink](https://github.com/NativePHP/kitchen-sink) → NativePHP for desktop demo app _(6 days ago)_
 - [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(1 week ago)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(1 week ago)_
 - [knotsphp/publicip](https://github.com/knotsphp/publicip) → Fast and reliable way to get your public IP address with PHP _(1 week ago)_
