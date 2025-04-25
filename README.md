@@ -7,7 +7,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
-- [How I wasted 3 days upgrading to FluxUI](https://srwiez.com/posts/how-i-wasted-3-days-upgrading-to-fluxui?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 weeks ago_
+- [How I wasted 3 days upgrading to FluxUI](https://srwiez.com/posts/how-i-wasted-3-days-upgrading-to-fluxui?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 month ago_
 - [Host your own AI Server using Proxmox and Ollama and connect PHPStorm to it](https://srwiez.com/posts/host-your-own-ai-server-using-proxmox-and-ollama-and-connect-phpstorm-to-it?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _2 months ago_
 - [2024 : Year in review](https://srwiez.com/posts/2024-year-in-review?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 months ago_
 - [My take on Bluesky](https://srwiez.com/posts/my-take-on-bluesky?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
