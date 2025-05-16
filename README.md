@@ -11,14 +11,14 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [Host your own AI Server using Proxmox and Ollama and connect PHPStorm to it](https://srwiez.com/posts/host-your-own-ai-server-using-proxmox-and-ollama-and-connect-phpstorm-to-it?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 months ago_
 - [2024 : Year in review](https://srwiez.com/posts/2024-year-in-review?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
 - [My take on Bluesky](https://srwiez.com/posts/my-take-on-bluesky?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _5 months ago_
-- [My take on Statamic&#39;s future](https://srwiez.com/posts/my-take-on-statamic-future?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _6 months ago_
+- [My take on Statamic&#39;s future](https://srwiez.com/posts/my-take-on-statamic-future?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _7 months ago_
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(2 days ago)_
-- [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(3 days ago)_
+- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(3 days ago)_
+- [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(4 days ago)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(1 week ago)_
-- [NativeCLI/NativeCLI](https://github.com/NativeCLI/NativeCLI) → An interactive installer for NativePHP _(2 weeks ago)_
+- [NativeCLI/NativeCLI](https://github.com/NativeCLI/NativeCLI) → An interactive installer for NativePHP _(3 weeks ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(1 month ago)_
 - [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(1 month ago)_
 - [NativePHP/kitchen-sink](https://github.com/NativePHP/kitchen-sink) → NativePHP for desktop demo app _(1 month ago)_
