@@ -17,8 +17,8 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(1 week ago)_
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(1 week ago)_
-- [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(1 week ago)_
-- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(1 week ago)_
+- [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(2 weeks ago)_
+- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(2 weeks ago)_
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(3 weeks ago)_
 - [NativeCLI/NativeCLI](https://github.com/NativeCLI/NativeCLI) → An interactive installer for NativePHP _(1 month ago)_
 - [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(1 month ago)_
