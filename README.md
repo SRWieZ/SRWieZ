@@ -23,7 +23,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [NativeCLI/NativeCLI](https://github.com/NativeCLI/NativeCLI) → An interactive installer for NativePHP _(1 month ago)_
 - [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(1 month ago)_
 - [NativePHP/kitchen-sink](https://github.com/NativePHP/kitchen-sink) → NativePHP for desktop demo app _(1 month ago)_
-- [knotsphp/publicip](https://github.com/knotsphp/publicip) → Fast and reliable way to get your public IP address with PHP _(1 month ago)_
+- [knotsphp/publicip](https://github.com/knotsphp/publicip) → Fast and reliable way to get your public IP address with PHP _(2 months ago)_
 - [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(2 months ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
