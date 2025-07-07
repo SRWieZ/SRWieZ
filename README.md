@@ -9,15 +9,15 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 - [Laravel Nightwatch: Log outgoing requests from Saloon](https://srwiez.com/posts/laravel-nightwatch-log-outgoing-requests-from-saloon?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _2 weeks ago_
 - [Get the last login date of a user in Laravel](https://srwiez.com/posts/get-the-last-login-date-of-a-user-in-laravel?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 weeks ago_
-- [How to automatically control the Raspberry Pi fan with Home Assistant](https://srwiez.com/posts/how-to-automatically-control-the-raspberry-pi-fan-with-home-assistant?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 weeks ago_
+- [How to automatically control the Raspberry Pi fan with Home Assistant](https://srwiez.com/posts/how-to-automatically-control-the-raspberry-pi-fan-with-home-assistant?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 weeks ago_
 - [How I wasted 3 days upgrading to FluxUI](https://srwiez.com/posts/how-i-wasted-3-days-upgrading-to-fluxui?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 months ago_
 - [Host your own AI Server using Proxmox and Ollama and connect PHPStorm to it](https://srwiez.com/posts/host-your-own-ai-server-using-proxmox-and-ollama-and-connect-phpstorm-to-it?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(2 days ago)_
-- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(3 days ago)_
-- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(3 days ago)_
+- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(3 days ago)_
+- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(4 days ago)_
+- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(4 days ago)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(1 week ago)_
 - [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(1 week ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(1 week ago)_
