@@ -15,11 +15,11 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(2 days ago)_
-- [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(5 days ago)_
-- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(1 week ago)_
+- [SRWieZ/whatsdiff](https://github.com/SRWieZ/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(3 days ago)_
+- [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(6 days ago)_
+- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(2 weeks ago)_
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(2 weeks ago)_
-- [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(2 weeks ago)_
+- [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(3 weeks ago)_
 - [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(3 weeks ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(3 weeks ago)_
 - [saloonphp/laravel-plugin](https://github.com/saloonphp/laravel-plugin) → 🤠 The official Laravel plugin for saloonphp/saloon _(3 weeks ago)_
