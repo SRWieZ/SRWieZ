@@ -24,7 +24,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(1 month ago)_
 - [saloonphp/laravel-plugin](https://github.com/saloonphp/laravel-plugin) → 🤠 The official Laravel plugin for saloonphp/saloon _(2 months ago)_
 - [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(2 months ago)_
-- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(2 months ago)_
+- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(3 months ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
