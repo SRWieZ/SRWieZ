@@ -19,7 +19,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(3 weeks ago)_
 - [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(1 month ago)_
 - [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) → The NativePHP website _(1 month ago)_
-- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(2 months ago)_
+- [NativePHP/laravel](https://github.com/NativePHP/laravel) → Laravel wrapper for the NativePHP framework _(3 months ago)_
 - [NativePHP/electron](https://github.com/NativePHP/electron) → Electron backend for NativePHP _(3 months ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(3 months ago)_
 - [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(3 months ago)_
