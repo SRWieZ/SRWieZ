@@ -7,11 +7,11 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
+- [Your small VPS is almost full, clean up your journal logs](https://srwiez.com/posts/your-small-vps-is-almost-full-clean-up-your-journal-logs?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _today_
 - [Laravel Nightwatch: Log outgoing requests from Saloon](https://srwiez.com/posts/laravel-nightwatch-log-outgoing-requests-from-saloon?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
 - [Get the last login date of a user in Laravel](https://srwiez.com/posts/get-the-last-login-date-of-a-user-in-laravel?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
 - [How to automatically control the Raspberry Pi fan with Home Assistant](https://srwiez.com/posts/how-to-automatically-control-the-raspberry-pi-fan-with-home-assistant?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
 - [How I wasted 3 days upgrading to FluxUI](https://srwiez.com/posts/how-i-wasted-3-days-upgrading-to-fluxui?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _6 months ago_
-- [Host your own AI Server using Proxmox and Ollama and connect PHPStorm to it](https://srwiez.com/posts/host-your-own-ai-server-using-proxmox-and-ollama-and-connect-phpstorm-to-it?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _8 months ago_
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
