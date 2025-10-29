@@ -7,11 +7,11 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
+- [I made a CLI tool to keep an eye on your dependencies: Whatsdiff v2 is out!](https://srwiez.com/posts/whatsdiff-an-open-source-tool-to-keep-an-eye-on-your-dependencies?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _today_
 - [Your small VPS is almost full, clean up your journal logs](https://srwiez.com/posts/your-small-vps-is-almost-full-clean-up-your-journal-logs?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 week ago_
 - [Laravel Nightwatch: Log outgoing requests from Saloon](https://srwiez.com/posts/laravel-nightwatch-log-outgoing-requests-from-saloon?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
 - [Get the last login date of a user in Laravel](https://srwiez.com/posts/get-the-last-login-date-of-a-user-in-laravel?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
 - [How to automatically control the Raspberry Pi fan with Home Assistant](https://srwiez.com/posts/how-to-automatically-control-the-raspberry-pi-fan-with-home-assistant?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
-- [How I wasted 3 days upgrading to FluxUI](https://srwiez.com/posts/how-i-wasted-3-days-upgrading-to-fluxui?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _7 months ago_
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
