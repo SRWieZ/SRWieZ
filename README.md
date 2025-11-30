@@ -15,10 +15,10 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(2 days ago)_
-- [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(2 days ago)_
-- [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(2 days ago)_
-- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(2 days ago)_
+- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(3 days ago)_
+- [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(3 days ago)_
+- [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(3 days ago)_
+- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(3 days ago)_
 - [dishypilot/releases](https://github.com/dishypilot/releases) → Releases repository for dishypilot.com _(1 week ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(1 week ago)_
 - [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(2 weeks ago)_
