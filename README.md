@@ -22,7 +22,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(2 weeks ago)_
 - [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(2 weeks ago)_
 - [dishypilot/releases](https://github.com/dishypilot/releases) → Releases repository for dishypilot.com _(3 weeks ago)_
-- [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(4 weeks ago)_
+- [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(1 month ago)_
 - [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(1 month ago)_
 - [spatie/statamic-mailcoach](https://github.com/spatie/statamic-mailcoach) → Display a Mailcoach summary inside Statamic _(2 months ago)_
 
