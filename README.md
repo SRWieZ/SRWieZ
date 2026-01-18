@@ -24,7 +24,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(1 month ago)_
 - [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(1 month ago)_
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(1 month ago)_
-- [dishypilot/releases](https://github.com/dishypilot/releases) → Releases repository for dishypilot.com _(1 month ago)_
+- [dishypilot/releases](https://github.com/dishypilot/releases) → Releases repository for dishypilot.com _(2 months ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
