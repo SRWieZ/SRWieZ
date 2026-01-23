@@ -15,7 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [phikiphp/phiki](https://github.com/phikiphp/phiki) → Syntax highlighting powered by TextMate grammars in PHP. _(2 days ago)_
+- [phikiphp/phiki](https://github.com/phikiphp/phiki) → Syntax highlighting powered by TextMate grammars in PHP. _(3 days ago)_
 - [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(2 weeks ago)_
 - [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(3 weeks ago)_
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(1 month ago)_
