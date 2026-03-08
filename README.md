@@ -23,8 +23,8 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(1 month ago)_
 - [phikiphp/phiki](https://github.com/phikiphp/phiki) → Syntax highlighting powered by TextMate grammars in PHP. _(1 month ago)_
 - [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(2 months ago)_
-- [SRWieZ/php-svg-ps-converter](https://github.com/SRWieZ/php-svg-ps-converter) → SVG (Portable and Secure) converter for BIMI compliance. _(3 months ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(3 months ago)_
+- [SRWieZ/php-svg-ps-converter](https://github.com/SRWieZ/php-svg-ps-converter) → SVG (Portable and Secure) converter for BIMI compliance. _(3 months ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
