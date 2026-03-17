@@ -15,7 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) → CLI tool for SVG Tiny P/S (Portable and Secure) conversion _(1 week ago)_
+- [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) → CLI tool for SVG Tiny P/S (Portable and Secure) conversion _(2 weeks ago)_
 - [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(2 weeks ago)_
 - [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(2 weeks ago)_
 - [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(3 weeks ago)_
