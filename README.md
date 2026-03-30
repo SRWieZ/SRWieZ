@@ -15,6 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
+- [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(today)_
 - [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(1 day ago)_
 - [SRWieZ/nativephp-mobile-packages](https://github.com/SRWieZ/nativephp-mobile-packages) → Public issue tracker for NativePHP mobile packages _(1 day ago)_
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(3 days ago)_
@@ -24,7 +25,6 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(1 month ago)_
 - [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(3 months ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(3 months ago)_
-- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(4 months ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
