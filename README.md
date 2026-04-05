@@ -11,15 +11,15 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [Your small VPS is almost full, clean up your journal logs](https://srwiez.com/posts/your-small-vps-is-almost-full-clean-up-your-journal-logs?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _5 months ago_
 - [Laravel Nightwatch: Log outgoing requests from Saloon](https://srwiez.com/posts/laravel-nightwatch-log-outgoing-requests-from-saloon?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _9 months ago_
 - [Get the last login date of a user in Laravel](https://srwiez.com/posts/get-the-last-login-date-of-a-user-in-laravel?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _9 months ago_
-- [How to automatically control the Raspberry Pi fan with Home Assistant](https://srwiez.com/posts/how-to-automatically-control-the-raspberry-pi-fan-with-home-assistant?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _9 months ago_
+- [How to automatically control the Raspberry Pi fan with Home Assistant](https://srwiez.com/posts/how-to-automatically-control-the-raspberry-pi-fan-with-home-assistant?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _10 months ago_
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(3 days ago)_
-- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(4 days ago)_
-- [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(5 days ago)_
-- [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(6 days ago)_
-- [SRWieZ/nativephp-mobile-packages](https://github.com/SRWieZ/nativephp-mobile-packages) → Public issue tracker for NativePHP mobile packages _(6 days ago)_
+- [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(4 days ago)_
+- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(5 days ago)_
+- [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(6 days ago)_
+- [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(1 week ago)_
+- [SRWieZ/nativephp-mobile-packages](https://github.com/SRWieZ/nativephp-mobile-packages) → Public issue tracker for NativePHP mobile packages _(1 week ago)_
 - [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(1 week ago)_
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(1 week ago)_
 - [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) → CLI tool for SVG Tiny P/S (Portable and Secure) conversion _(1 month ago)_
