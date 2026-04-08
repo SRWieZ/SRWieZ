@@ -15,7 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(6 days ago)_
+- [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(1 week ago)_
 - [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(1 week ago)_
 - [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(1 week ago)_
 - [SRWieZ/nativephp-mobile-packages](https://github.com/SRWieZ/nativephp-mobile-packages) → Public issue tracker for NativePHP mobile packages _(1 week ago)_
