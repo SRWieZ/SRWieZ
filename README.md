@@ -20,8 +20,8 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(1 week ago)_
 - [SRWieZ/nativephp-mobile-packages](https://github.com/SRWieZ/nativephp-mobile-packages) → Public issue tracker for NativePHP mobile packages _(1 week ago)_
 - [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(1 week ago)_
-- [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(1 week ago)_
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(1 week ago)_
+- [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(1 week ago)_
 - [SRWieZ/svgtinyps-cli](https://github.com/SRWieZ/svgtinyps-cli) → CLI tool for SVG Tiny P/S (Portable and Secure) conversion _(1 month ago)_
 - [NativePHP/php-bin](https://github.com/NativePHP/php-bin) → The PHP binaries used by NativePHP _(3 months ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(4 months ago)_
