@@ -8,14 +8,14 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
 - [I made 4 plugins for NativePHP](https://srwiez.com/posts/i-made-4-plugins-for-nativephp?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 week ago_
-- [Devkeepr: your trusted companion for your dev environment](https://srwiez.com/posts/devkeepr-your-trusted-companion-for-your-dev-environment?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 week ago_
+- [Devkeepr: your trusted companion for your dev environment](https://srwiez.com/posts/devkeepr-your-trusted-companion-for-your-dev-environment?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _2 weeks ago_
 - [I made a CLI tool to keep an eye on your dependencies: Whatsdiff v2 is out!](https://srwiez.com/posts/whatsdiff-an-open-source-tool-to-keep-an-eye-on-your-dependencies?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _6 months ago_
 - [Your small VPS is almost full, clean up your journal logs](https://srwiez.com/posts/your-small-vps-is-almost-full-clean-up-your-journal-logs?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _6 months ago_
 - [Laravel Nightwatch: Log outgoing requests from Saloon](https://srwiez.com/posts/laravel-nightwatch-log-outgoing-requests-from-saloon?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _10 months ago_
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(4 days ago)_
+- [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(5 days ago)_
 - [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(1 week ago)_
 - [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(1 week ago)_
 - [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(3 weeks ago)_
@@ -23,7 +23,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(1 month ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(4 months ago)_
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) → Thumbhash implementation in PHP _(5 months ago)_
-- [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(5 months ago)_
+- [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(6 months ago)_
 - [spatie/statamic-mailcoach](https://github.com/spatie/statamic-mailcoach) → Display a Mailcoach summary inside Statamic _(6 months ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
