@@ -8,7 +8,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
 - [I made 4 plugins for NativePHP](https://srwiez.com/posts/i-made-4-plugins-for-nativephp?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _2 weeks ago_
-- [Devkeepr: your trusted companion for your dev environment](https://srwiez.com/posts/devkeepr-your-trusted-companion-for-your-dev-environment?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _2 weeks ago_
+- [Devkeepr: your trusted companion for your dev environment](https://srwiez.com/posts/devkeepr-your-trusted-companion-for-your-dev-environment?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 weeks ago_
 - [I made a CLI tool to keep an eye on your dependencies: Whatsdiff v2 is out!](https://srwiez.com/posts/whatsdiff-an-open-source-tool-to-keep-an-eye-on-your-dependencies?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _6 months ago_
 - [Your small VPS is almost full, clean up your journal logs](https://srwiez.com/posts/your-small-vps-is-almost-full-clean-up-your-journal-logs?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _6 months ago_
 - [Laravel Nightwatch: Log outgoing requests from Saloon](https://srwiez.com/posts/laravel-nightwatch-log-outgoing-requests-from-saloon?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _10 months ago_
