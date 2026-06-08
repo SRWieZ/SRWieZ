@@ -7,7 +7,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
-- [Is Starlink Worth It? My Switch to Better Alternatives](https://srwiez.com/posts/is-starlink-worth-it-my-switch-to-better-alternatives?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 week ago_
+- [Is Starlink Worth It? My Switch to Better Alternatives](https://srwiez.com/posts/is-starlink-worth-it-my-switch-to-better-alternatives?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _2 weeks ago_
 - [I made 4 plugins for NativePHP](https://srwiez.com/posts/i-made-4-plugins-for-nativephp?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 month ago_
 - [Devkeepr: your trusted companion for your dev environment](https://srwiez.com/posts/devkeepr-your-trusted-companion-for-your-dev-environment?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 month ago_
 - [I made a CLI tool to keep an eye on your dependencies: Whatsdiff v2 is out!](https://srwiez.com/posts/whatsdiff-an-open-source-tool-to-keep-an-eye-on-your-dependencies?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _7 months ago_
@@ -15,16 +15,16 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [knotsphp/system](https://github.com/knotsphp/system) → A modern PHP library to get system information with Enums and Value Objects. _(3 days ago)_
-- [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(3 days ago)_
-- [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(3 days ago)_
-- [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(3 days ago)_
-- [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(3 days ago)_
-- [knotsphp/flushdns](https://github.com/knotsphp/flushdns) → Flush DNS cache on your system _(3 days ago)_
-- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(3 days ago)_
-- [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(3 days ago)_
-- [SRWieZ/nativephp-mobile-packages](https://github.com/SRWieZ/nativephp-mobile-packages) → Public issue tracker for NativePHP mobile packages _(3 days ago)_
-- [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(3 days ago)_
+- [knotsphp/system](https://github.com/knotsphp/system) → A modern PHP library to get system information with Enums and Value Objects. _(4 days ago)_
+- [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(4 days ago)_
+- [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(4 days ago)_
+- [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(4 days ago)_
+- [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(4 days ago)_
+- [knotsphp/flushdns](https://github.com/knotsphp/flushdns) → Flush DNS cache on your system _(4 days ago)_
+- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(4 days ago)_
+- [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(4 days ago)_
+- [SRWieZ/nativephp-mobile-packages](https://github.com/SRWieZ/nativephp-mobile-packages) → Public issue tracker for NativePHP mobile packages _(4 days ago)_
+- [SRWieZ/php-starlink-client](https://github.com/SRWieZ/php-starlink-client) → Starlink PHP Client using local gRPC communication _(4 days ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
 
