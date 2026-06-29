@@ -17,9 +17,9 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 - [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(1 week ago)_
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(1 week ago)_
-- [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(1 week ago)_
-- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(1 week ago)_
-- [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(1 week ago)_
+- [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(2 weeks ago)_
+- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(2 weeks ago)_
+- [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(2 weeks ago)_
 - [SRWieZ/php-svg-ps-converter](https://github.com/SRWieZ/php-svg-ps-converter) → SVG (Portable and Secure) converter for BIMI compliance. _(3 weeks ago)_
 - [knotsphp/system](https://github.com/knotsphp/system) → A modern PHP library to get system information with Enums and Value Objects. _(3 weeks ago)_
 - [knotsphp/flushdns](https://github.com/knotsphp/flushdns) → Flush DNS cache on your system _(3 weeks ago)_
