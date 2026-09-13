@@ -7,9 +7,9 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
-- [Linux suspend on a T2 MacBook Pro: what actually worked](https://srwiez.com/posts/linux-suspend-on-a-t2-macbook-pro-what-actually-worked?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 month ago_
+- [Linux suspend on a T2 MacBook Pro: what actually worked](https://srwiez.com/posts/linux-suspend-on-a-t2-macbook-pro-what-actually-worked?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _2 months ago_
 - [Is Starlink Worth It? My Switch to Better Alternatives](https://srwiez.com/posts/is-starlink-worth-it-my-switch-to-better-alternatives?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _3 months ago_
-- [I made 4 plugins for NativePHP](https://srwiez.com/posts/i-made-4-plugins-for-nativephp?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
+- [I made 4 plugins for NativePHP](https://srwiez.com/posts/i-made-4-plugins-for-nativephp?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _5 months ago_
 - [Devkeepr: your trusted companion for your dev environment](https://srwiez.com/posts/devkeepr-your-trusted-companion-for-your-dev-environment?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _5 months ago_
 - [I made a CLI tool to keep an eye on your dependencies: Whatsdiff v2 is out!](https://srwiez.com/posts/whatsdiff-an-open-source-tool-to-keep-an-eye-on-your-dependencies?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _10 months ago_
 
@@ -22,7 +22,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(2 weeks ago)_
 - [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(2 weeks ago)_
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(2 months ago)_
-- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(2 months ago)_
+- [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(3 months ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(3 months ago)_
 - [knotsphp/system](https://github.com/knotsphp/system) → A modern PHP library to get system information with Enums and Value Objects. _(3 months ago)_
 
