@@ -17,10 +17,10 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 - [NativePHP/mobile-ui](https://github.com/NativePHP/mobile-ui) →  _(4 days ago)_
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(1 week ago)_
-- [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(2 weeks ago)_
 - [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(2 weeks ago)_
-- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(3 weeks ago)_
+- [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(2 weeks ago)_
 - [SRWieZ/leelabot.com](https://github.com/SRWieZ/leelabot.com) → Homepage for Leelabot, an administration bot for Urban Terror — a Laravel app exported to static HTML and served from GitHub Pages _(3 weeks ago)_
+- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(3 weeks ago)_
 - [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(4 weeks ago)_
 - [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(1 month ago)_
 - [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) → Check the queue size with Spatie Health Package _(3 months ago)_
