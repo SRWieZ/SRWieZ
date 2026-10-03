@@ -22,8 +22,8 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [NativePHP/mobile-ui](https://github.com/NativePHP/mobile-ui) →  _(2 weeks ago)_
 - [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(4 weeks ago)_
 - [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(4 weeks ago)_
-- [SRWieZ/leelabot.com](https://github.com/SRWieZ/leelabot.com) → Homepage for Leelabot, an administration bot for Urban Terror — a Laravel app exported to static HTML and served from GitHub Pages _(1 month ago)_
 - [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(1 month ago)_
+- [SRWieZ/leelabot.com](https://github.com/SRWieZ/leelabot.com) → Homepage for Leelabot, an administration bot for Urban Terror — a Laravel app exported to static HTML and served from GitHub Pages _(1 month ago)_
 - [NativePHP/desktop](https://github.com/NativePHP/desktop) → Create desktop applications with PHP _(1 month ago)_
 
 I love working on open-source projects, and I would be thrilled to do it full-time.
