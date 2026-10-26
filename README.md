@@ -15,7 +15,7 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air) → Create mobile applications with PHP _(3 days ago)_
+- [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air) → Create mobile applications with PHP _(today)_
 - [NativePHP/mobile-ui](https://github.com/NativePHP/mobile-ui) →  _(4 days ago)_
 - [SRWieZ/leelabot.com](https://github.com/SRWieZ/leelabot.com) → Homepage for Leelabot, an administration bot for Urban Terror — a Laravel app exported to static HTML and served from GitHub Pages _(4 days ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(5 days ago)_
