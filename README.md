@@ -15,11 +15,11 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
-- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(today)_
-- [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(today)_
-- [SRWieZ/leelabot.com](https://github.com/SRWieZ/leelabot.com) → Homepage for Leelabot, an administration bot for Urban Terror — a Laravel app exported to static HTML and served from GitHub Pages _(today)_
-- [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(2 days ago)_
-- [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air) → Create mobile applications with PHP _(3 days ago)_
+- [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(1 day ago)_
+- [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(1 day ago)_
+- [SRWieZ/leelabot.com](https://github.com/SRWieZ/leelabot.com) → Homepage for Leelabot, an administration bot for Urban Terror — a Laravel app exported to static HTML and served from GitHub Pages _(1 day ago)_
+- [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(3 days ago)_
+- [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air) → Create mobile applications with PHP _(4 days ago)_
 - [NativePHP/mobile-ui](https://github.com/NativePHP/mobile-ui) →  _(1 week ago)_
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → CLI tool to manage all your domains _(1 week ago)_
 - [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(1 week ago)_
