@@ -21,8 +21,8 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 - [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) → CLI tool to see what has changed in your project&#39;s dependencies _(1 week ago)_
 - [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air) → Create mobile applications with PHP _(1 week ago)_
 - [NativePHP/mobile-ui](https://github.com/NativePHP/mobile-ui) →  _(1 week ago)_
-- [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(2 weeks ago)_
 - [unolia/unolia-cli](https://github.com/unolia/unolia-cli) → Command line for Unolia: deploys, DNS, issues and automations, for humans and agents _(2 weeks ago)_
+- [SRWieZ/php-bin-with-grpc](https://github.com/SRWieZ/php-bin-with-grpc) → PHP binaries for NativePHP app that needs gRPC support _(2 weeks ago)_
 - [SRWieZ/nativephp-mobile-packages](https://github.com/SRWieZ/nativephp-mobile-packages) → Public issue tracker for NativePHP mobile packages _(1 month ago)_
 - [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(2 months ago)_
 
