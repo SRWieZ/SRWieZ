@@ -7,11 +7,11 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 📝 My recent blog posts ([subscribe to my newsletter](https://srwiez.com/?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez))
 
+- [290 mockups, 36 versions, one website](https://srwiez.com/posts/290-mockups-36-versions-one-website?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 day ago_
 - [Produce good work with AI](https://srwiez.com/posts/produce-good-work-with-ai?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _1 week ago_
 - [php2shell: how we secured 300&#43; websites in only 24 hours](https://srwiez.com/posts/how-unolia-helped-me-keep-my-websites-secure-of-php2shell?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _2 weeks ago_
 - [Linux suspend on a T2 MacBook Pro: what actually worked](https://srwiez.com/posts/linux-suspend-on-a-t2-macbook-pro-what-actually-worked?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _4 months ago_
 - [Is Starlink Worth It? My Switch to Better Alternatives](https://srwiez.com/posts/is-starlink-worth-it-my-switch-to-better-alternatives?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _5 months ago_
-- [I made 4 plugins for NativePHP](https://srwiez.com/posts/i-made-4-plugins-for-nativephp?utm_source=github&utm_medium=readme&utm_campaign=readme-srwiez) _7 months ago_
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
