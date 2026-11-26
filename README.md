@@ -15,8 +15,8 @@ PHP & Laravel developer! Indie dev. I enjoy working on open-source projects and 
 
 #### 👨‍🔧 Currently helping with these projects ([sponsor me](https://github.com/sponsors/SRWieZ))
 
+- [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air) → Create mobile applications with PHP _(today)_
 - [SRWieZ/leelabot.com](https://github.com/SRWieZ/leelabot.com) → Homepage for Leelabot, an administration bot for Urban Terror — a Laravel app exported to static HTML and served from GitHub Pages _(4 days ago)_
-- [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air) → Create mobile applications with PHP _(6 days ago)_
 - [SRWieZ/nativephp-mobile-screen](https://github.com/SRWieZ/nativephp-mobile-screen) → A NativePHP plugin for screen wake lock and brightness control. _(1 week ago)_
 - [SRWieZ/forge-heartbeats](https://github.com/SRWieZ/forge-heartbeats) → Monitor Laravel scheduled tasks with Laravel Forge Heartbeats API _(1 week ago)_
 - [SRWieZ/tailscale-notifier](https://github.com/SRWieZ/tailscale-notifier) →  _(4 weeks ago)_
